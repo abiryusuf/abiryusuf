@@ -1,6 +1,4 @@
 ### Hi there 👋 Welcome to my World
-
-![Screen Shot 2020-07-14 at 11 14 01 PM](https://user-images.githubusercontent.com/41492852/87499222-532d8780-c61f-11ea-981d-1dc1551b4af5.png)
 <!--
 **abiryusuf/abiryusuf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
